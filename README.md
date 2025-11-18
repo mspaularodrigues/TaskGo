@@ -1,3 +1,25 @@
+### PROJETO INTEGRADOR 4º SEMESTRE - TaskGo - Grupo 03
+
+    TaskGo é uma plataforma desenvolvida para facilitar a conexão entre clientes e prestadores de serviços locais. O projeto visa resolver um problema comum: a dificuldade em encontrar profissionais confiáveis e disponíveis para tarefas do dia a dia, enquanto muitos trabalhadores autônomos enfrentam barreiras para alcançar novos clientes e expandir sua renda.
+
+## Integrantes do grupo
+
+Henrique Da Rocha Medeiros
+
+Joao Victor Da Silva Caldas
+
+Maria Paula De Oliveira Rodrigues
+
+Mariana Oliveira Mello
+
+Matheus Yoshida Dias
+
+Peterson Fonseca Simiao
+
+Sofia Freire De Andrade Clark
+
+### Observações Técnicas
+
 ## Como startar o ambiente de desenvolvimento
 
 # 1) Na pasta onde está o docker-compose.yml e o .env
